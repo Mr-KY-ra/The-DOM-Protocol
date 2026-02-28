@@ -1,5 +1,5 @@
 # 🛡️ The DOM Protocol: Cyber-Meritocratic Governance
-**Author:** MrKYra  
+**Author:** Mr-KY-ra  
 **Status:** Alpha / Concept Stage  
 **License:** MIT
 
